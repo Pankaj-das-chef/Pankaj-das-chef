@@ -10,9 +10,8 @@
 - 🛠️ Skilled in:
   - 💻 Programming: `Verilog`, `VHDL`, `C`, `Python`
   - 🔧 Tools & Software: `Vivado`, `Tanner EDA`, `LTspice`, `MATLAB`, `TINA-TI`, `Proteus`, `Pycharm`
-- 🌱 Currently learning **Low-power analog design** and **FPGA-based DAQ systems**
-- 💬 Ask me about **Verilog/VHDL Projects**, **Spice Simulations**
-- 📫 Reach me at: **[pankajdpd2004@gmail.com](mailto:pankajpd2004@gmail.com)**
+- Currently learning **Low-power analog design** and **FPGA-based DAQ systems**
+- Reach me at: **[pankajdpd2004@gmail.com](mailto:pankajpd2004@gmail.com)**
 
 ---
 
